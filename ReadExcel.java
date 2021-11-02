@@ -22,7 +22,10 @@ public class ReadExcel {
 		System.out.println(sheet.getRow(0).getCell(0).getStringCellValue());
 		System.out.println(sheet.getRow(1).getCell(1).getStringCellValue());
 
+		System.out.println(sheet.getRow(2).getCell(1).getStringCellValue());
+
 		System.out.println("Data successfully read");
+
 		
 		// Writing data into Excel
 				Row row = sheet.createRow(11);
