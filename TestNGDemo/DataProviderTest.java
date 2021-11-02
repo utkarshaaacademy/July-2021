@@ -46,7 +46,8 @@ public class DataProviderTest {
     return new Object[][] {
     	new Object[]   { "ravinangare@gmail.com", "1234567899" },
     	new Object[]  { "ravinangare1983@gmail.com", "21314134235" },
-    	new Object[]   { "ravi.nangare@gmail.com", "123421412" }
+    	new Object[]   { "ravi.nangare@gmail.com", "123421412" },
+	new Object[]   { "utkarshaa.academy@gmail.com", "12342345345" }
       };
 }
 }
